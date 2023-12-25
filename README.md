@@ -1,9 +1,9 @@
 <div align='center'>
-    <h1><b>🏠 PIXEL BEAT 🐈</b></h1>
-		<img src="https://github.com/FESP-8/final-project/assets/115642699/37b0836a-a021-45bc-a52a-8f751c139564" alt="사진을 넣어야합니다.">
+    <h1><b>🎹 PIXEL BEAT 🎧</b></h1>
+	<img src="https://github.com/FESP-8/PixelBeat/assets/102240503/57bafa91-995a-4579-8c99-41c402dfa68f" alt="mainImg.">
     <br/>
 		<br/>
-		<h3><b>내 취향의 음악을 추천받고😮 음악을 들어보자!!🎶🎶</b></h3>
+		<h3><b>내 취향에 맞는 음악영수증을 발급받고 음악을 들어보자 </b></h3>
 		<br/>
 
 ![React](https://badgen.net/badge/React/v18.2.0/cyan?)
@@ -35,7 +35,8 @@
 
 > 📑 **프로젝트 발표자료**
 
-👉 [Miricanvas](https://www.miricanvas.com/v/12qebq8)
+👉 [PIXEL BEAT 발표자료 키노트](https://drive.google.com/file/d/1UzCWPWu_wN1NH8KV-pph5X37WTFIu5Tr/view)
+👉 [PIXEL BEAT 발표자료 PDF](https://drive.google.com/file/d/1vtwsKMmjRD2LV0cUwYBpBTqPDRFPu-nq/view)
 
 <br />
 
@@ -54,7 +55,7 @@
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/Project_Leader-FF5733" /> |            |                     |
+|  |            |                     |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
 |                      <img src="https://github.com/FESP-8/final-project/assets/115642699/561e8c21-d879-4fdb-b8f1-120110327c70" width="120px;" alt=""/>                       | <img src="https://avatars.githubusercontent.com/u/102240503?v=4?s=120" width="120px;" alt=""/> | <img src="https://github.com/FESP-8/final-project/assets/115642699/752d0df4-d8ee-4bc2-b2a2-6c8e24d01c23" width="120px;" alt=""/> |
 |                                                 [🧸안태욱](https://github.com/dotory0829)                                                 |                             [🍊오나영](https://github.com/ony540)                              |                            [🥔이규정](https://github.com/LKJ970524)                             |
@@ -68,14 +69,14 @@
 
 ## ✴️ **3. 역할 분담**
 
-<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/7208b643-ba5e-453d-b617-bd93fb24a01f" alt="사진넣기" />
+<img src="https://github.com/FESP-8/PixelBeat/assets/102240503/5b9a6ced-8624-49bf-8d45-24f380943d9a" alt="역할 분배" />
 
 
 <br />
 
 ## ⚙️ **4. 개발 환경 및 기술 스택**
 
-<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/cd0b65bc-c44c-49de-a139-6c54659379c2" />
+<img src="https://github.com/FESP-8/PixelBeat/assets/102240503/ce5015e3-4918-4d0a-9f0f-29ce39ed619c" />
 
 
 <br/>
@@ -128,7 +129,7 @@
 
 ## ✴️ **5. Git Branch 전략 - Github Flow**
 
-<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/a70dfd9b-1bb4-446b-922a-40aa5745d532" />
+<img src="https://github.com/FESP-8/PixelBeat/assets/102240503/c97a38bc-e9bd-496b-80a6-5d1feaeb3ce5" />
 
 
 <br />
