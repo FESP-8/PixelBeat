@@ -69,19 +69,19 @@
 
 ## ✴️ **3. 역할 분담**
 
-<img src="https://github.com/FESP-8/PixelBeat/assets/102240503/5b9a6ced-8624-49bf-8d45-24f380943d9a" alt="역할 분배" />
+<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/d66b5ad0-5722-4413-a2ce-d4f18cb3fb38" alt="역할 분배" />
 
 <br />
 
 ## ⚙️ **4. 개발 환경 및 기술 스택**
 
-<img src="https://github.com/FESP-8/PixelBeat/assets/102240503/ce5015e3-4918-4d0a-9f0f-29ce39ed619c" />
+<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/e59e9fc3-5794-4639-ac46-6cc9ba0f703c" />
 
 <br/>
 
 ### **왜 라이브러리를 사용했을까?**
 
-<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/9c79724a-8c3d-4c3b-897e-06849d2b705b" />
+<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/33109be5-4996-44c8-a331-28b874483808" />
 
 <br />
 
@@ -89,13 +89,13 @@
 
 #### **Github Issue Template**
 
-<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/a3842473-f4e7-4f56-bfeb-231ef1fdfe04" />
+<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/877f9f48-179c-48df-bb12-5d7b8e3080ab" />
 
 <br/>
 
 #### **Github PR template**
 
-<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/70bda9ef-5fba-4d46-bfa7-ed25369b3633" />
+<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/99ce540b-1841-4839-9d03-eb7b543225c5" />
 
 <br/>
 
@@ -124,7 +124,7 @@
 
 ## ✴️ **5. Git Branch 전략 - Github Flow**
 
-<img src="https://github.com/FESP-8/PixelBeat/assets/102240503/c97a38bc-e9bd-496b-80a6-5d1feaeb3ce5" />
+<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/b1c43cbc-9419-4b9e-a3ce-713930729012" />
 
 <br />
 
@@ -136,8 +136,10 @@
   - github의 pr기능과 댓글을 이용하여 코드를 리뷰하고 회의를 통하여 각자의 코드를 보며 수정 및 부족한 점을 알려준다.
 - PR 규칙을 정하여 병합전 코드를 확인하여 수정해야하는 부분 빼야하는 부분 등을 이야기하며 코드를 리뷰해준다.
 
-<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/f0597c59-143f-4ce7-8ce1-38644df35dad" />
-<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/755f02c5-ae55-4d9f-86b6-d2eb861f5a0d" />
+
+ <img src="https://github.com/FESP-8/PixelBeat/assets/115642699/f0597c59-143f-4ce7-8ce1-38644df35dad" width="260"/>
+<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/755f02c5-ae55-4d9f-86b6-d2eb861f5a0d" width="260"/> 
+
 
 ### **협업툴**
 
@@ -162,7 +164,7 @@
 
 | 시작 화면                                                                                              | 회원가입 페이지                                                                                        | 프로필 설정 페이지                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| ![시작화면](https://github.com/FESP-8/PixelBeat/assets/115642699/a51b4c62-34b0-4b1a-85a9-82bfb453f0cb) | ![회원가입](https://github.com/FESP-8/PixelBeat/assets/115642699/3dd5f0c5-5ab9-4a8e-9996-96f85616687f) | ![프로필](https://github.com/FESP-8/PixelBeat/assets/115642699/872e372c-76a8-4c90-a863-52fb98ff04dc) |
+|<img src="https://github.com/FESP-8/PixelBeat/assets/115642699/a51b4c62-34b0-4b1a-85a9-82bfb453f0cb" width="243"/> | <img src="https://github.com/FESP-8/PixelBeat/assets/115642699/3dd5f0c5-5ab9-4a8e-9996-96f85616687f" width="243" /> | <img src="https://github.com/FESP-8/PixelBeat/assets/115642699/872e372c-76a8-4c90-a863-52fb98ff04dc" width="243" /> |
 
 |                                                   로그인 페이지                                                    |                                                    검색 페이지                                                     |
 | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
@@ -188,7 +190,7 @@
 
 | 프로필 페이지                                                                                           | 프로필 수정 페이지                                                                                        |
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| ![프로필](https://github.com/FESP-8/PixelBeat/assets/115642699/2a7a61c4-5163-4931-93a8-27251ba80a51) | ![프로필 수정](https://github.com/FESP-8/PixelBeat/assets/115642699/c21791f0-0284-4d77-825f-eb1bfeded476) |
+| <img src="https://github.com/FESP-8/PixelBeat/assets/115642699/2a7a61c4-5163-4931-93a8-27251ba80a51" width="243"/> | <img src="https://github.com/FESP-8/PixelBeat/assets/115642699/c21791f0-0284-4d77-825f-eb1bfeded476" width="243"/> |
 
 |                                                    로그아웃 기능                                                    |
 | :-----------------------------------------------------------------------------------------------------------------: |
@@ -212,6 +214,7 @@
 - 프로젝트 세팅
 - 컴포넌트 리팩토링
 - 장르 / 가수 / 트랙 별 음악 추천 페이지
+- 영수증 페이지 기능
 - 회원가입 / 로그인 페이지
 - 검색 및 결과 노출 페이지
 - 슈퍼베이스 DB 연동 (음악, 스토리지 등) - 앨범 / 아티스트 페이지
